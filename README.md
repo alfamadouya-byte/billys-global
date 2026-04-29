@@ -48,5 +48,4 @@ button {background:#ff6600; color:white; border:none; padding:10px; margin-top:1
 </div>
 
 </body>
-</html># billys-global
-Plateforme d'import-export
+</html>
